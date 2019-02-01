@@ -1,0 +1,18 @@
+{
+  "legos": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "creation": "Black Cow"
+    },
+    {
+      "creator": "Antonio",
+      "color": "Red",
+      "shape": "Octagon",
+      "creation": "Fight Cage",
+      "id": 2
+    }
+  ]
+}
