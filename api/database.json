@@ -13,6 +13,12 @@
       "shape": "Octagon",
       "creation": "Fight Cage",
       "id": 2
+    },
+    {
+      "creator": "Jordan",
+      "shape": "Square",
+      "creation": "Jar Head",
+      "id": 3
     }
   ]
 }
